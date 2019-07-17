@@ -1,9 +1,13 @@
 # Statistical Algorithm
 
-## Loss Function relatively
+## Loss Function relative
 
 [softmax](./LossFunc)
 
-## Decision Tree relatively
+## Decision Tree relative
 
 [Decision Tree](./DecisionTree)
+
+## Monte Carlo sampling relative
+
+[Monte Carlo sampling](./MonteCarlo)
